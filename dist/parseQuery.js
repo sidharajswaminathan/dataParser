@@ -41,7 +41,4 @@ class parseData {
     }
 }
 exports.default = parseData;
-/* console.log(addHypen("123456ee434",'-',3));
-let userDetails = parseUser('sidharaj000JOHN0000MICHAEL0009994567',bArr);
-console.log(userDetails); */
 //# sourceMappingURL=parseQuery.js.map
